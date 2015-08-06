@@ -13,7 +13,7 @@ The Xcode project teaches you how to create a Facebook profile viewer applicatio
 
 ### Learn More
 
-To learn more, take a look at the [Integrating Facebook in iOS](https://www.parse.com/tutorials/integrating-facebook-in-ios) tutorial.
+To learn more, take a look at the [Integrating Facebook in iOS] (https://www.parse.com/tutorials/integrating-facebook-in-ios) tutorial.
 
 ## Android Setup
 
